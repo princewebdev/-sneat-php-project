@@ -83,6 +83,11 @@
                                     <div data-i18n="Without menu">Create User</div>
                                 </a>
                             </li>
+                            <li class="menu-item">
+                                <a href="users.php?do=ViewTrash" class="menu-link">
+                                    <div data-i18n="Without menu">View Trash</div>
+                                </a>
+                            </li>
                         </ul>
                     </li>
 
